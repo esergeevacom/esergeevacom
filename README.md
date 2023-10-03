@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, i'm Ekaterina Sergeeva
+
+![codewars](https://www.codewars.com/users/esergeevacom/badges/small)
+
+[![LeetCode user user7859bZ](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fuser7859bZ&logo=leetcode&logoColor=yellow)](https://leetcode.com/user7859bZ/)
 
 <!--
 **esergeevacom/esergeevacom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
