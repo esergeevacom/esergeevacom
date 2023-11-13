@@ -1,6 +1,6 @@
 from SaintPetersburg import Developer
 
-
+```
 me = Developer({
    "name": "Ekaterina Sergeeva",
    "age": 37,
@@ -37,6 +37,7 @@ me = Developer({
      }     
    }
 })
+```
 
 ![codewars](https://www.codewars.com/users/esergeevacom/badges/small)
 
