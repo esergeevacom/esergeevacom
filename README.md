@@ -14,7 +14,8 @@ me = Developer({
    skills: {
      "higher_education": {
        "university": "BGTU «VOENMEH»",
-       "additional": [{
+      }
+    "additional": [{
            "year": 2023,
            "place": "ya.practicum",
            "title": "Data Engineer",
