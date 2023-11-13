@@ -1,43 +1,44 @@
 ```
 from SaintPetersburg import Developer
 
-me = Developer({
-   "name": "Ekaterina Sergeeva",
-   "age": 37,
-   "current_location": ["Saint-Petersburg, Russia"],
-   "code": ["Python", "PHP", "SQL"],
-   "technologies": {
-      "frameworks": ["FastAPI", "Flask", "Django", "Bitrix"],
-      "databases": ["PostgreSQL", "MySQL", "SQL-Server"],
-      "nosql": ["Redis", "SqLite", "MongoDB"],
-   },
-   skills: {
-     "higher_education": {
-       "university": "BGTU «VOENMEH»",
-      }
-    "additional": [{
-           "year": 2023,
-           "place": "ya.practicum",
-           "title": "Data Engineer",
+ me = Developer({
+     "name": "Ekaterina Sergeeva",
+     "age": 37,
+     "current_location": ["Saint-Petersburg, Russia"],
+     "code": ["Python", "PHP", "SQL"],
+     "technologies": {
+         "frameworks": ["FastAPI", "Flask", "Django", "Bitrix"],
+         "databases": ["PostgreSQL", "MySQL", "SQL-Server"],
+         "nosql": ["Redis", "SqLite", "MongoDB"],
+     },
+     "skills": {
+         "higher_education": {
+             "university": "BGTU «VOENMEH»",
          },
-         {
-           "year": 2023,
-           "place": "ya.practicum",
-           "title": "Algorithms and data structurte",
-         },
-         {
-           "year": 2022,
-           "place": "ya.practicum",
-           "title": "Middle Python",
-         },
-         {
-           "year": 2017,
-           "place": "bitrix academy",
-           "title": "Design integration and platform customization",
-       }]
-     }     
-   }
-})
+         "additional": [
+             {
+                 "year": 2023,
+                 "place": "ya.practicum",
+                 "title": "Data Engineer",
+             },
+             {
+                 "year": 2023,
+                 "place": "ya.practicum",
+                 "title": "Algorithms and data structurte",
+             },
+             {
+                 "year": 2022,
+                 "place": "ya.practicum",
+                 "title": "Middle Python",
+             },
+             {
+                 "year": 2017,
+                 "place": "bitrix academy",
+                 "title": "Design integration and platform customization",
+             }
+         ]
+     }
+ })
 ```
 
 ![codewars](https://www.codewars.com/users/esergeevacom/badges/small)
