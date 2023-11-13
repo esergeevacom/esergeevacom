@@ -1,6 +1,6 @@
+```
 from SaintPetersburg import Developer
 
-```
 me = Developer({
    "name": "Ekaterina Sergeeva",
    "age": 37,
