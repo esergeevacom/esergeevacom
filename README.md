@@ -7,7 +7,7 @@ from SaintPetersburg import Developer
      "current_location": ["Saint-Petersburg, Russia"],
      "code": ["Python", "PHP", "SQL"],
      "technologies": {
-         "frameworks": ["FastAPI", "Flask", "Django", "Bitrix"],
+         "frameworks": ["FastAPI", "Flask", "Bitrix"],
          "databases": ["PostgreSQL", "MySQL", "SQL-Server"],
          "nosql": ["Redis", "SqLite", "MongoDB"],
      },
