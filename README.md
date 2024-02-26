@@ -46,7 +46,7 @@ from SaintPetersburg import Developer
 [![LeetCode user esergeevacom](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fesergeevacom&logo=leetcode&logoColor=yellow)](https://leetcode.com/esergeevacom/)
 
 ![leetcode_50_2024](https://assets.leetcode.com/static_assets/marketing/2024-50.gif)
-![leetcode_jan](https://leetcode.com/static/images/badges/2024/gif/2024-01.gif)
+![leetcode_jan](https://leetcode.com/static/images/badges/dcc-2024-1.png)
 ![leetcode_pd](https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png)
 
 <!--
