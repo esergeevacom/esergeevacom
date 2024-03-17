@@ -17,6 +17,11 @@ from SaintPetersburg import Developer
          },
          "additional": [
              {
+                 "year": 2024,
+                 "place": "stepik",
+                 "title": "Data Science",
+             },
+             {
                  "year": 2023,
                  "place": "ya.practicum",
                  "title": "Data Engineer",
@@ -47,6 +52,7 @@ from SaintPetersburg import Developer
 
 ![leetcode_50_2024](https://assets.leetcode.com/static_assets/marketing/2024-50.gif)
 ![leetcode_jan](https://leetcode.com/static/images/badges/dcc-2024-1.png)
+![leetcode_feb](https://leetcode.com/static/images/badges/dcc-2024-2.png)
 ![leetcode_pd](https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png)
 
 <!--
