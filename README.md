@@ -53,13 +53,10 @@ from SaintPetersburg import Developer
 
 [![LeetCode user esergeevacom](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fesergeevacom&logo=leetcode&logoColor=yellow)](https://leetcode.com/esergeevacom/)
 
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="leetcode_jan" style="width:100px;" />
-<img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png" alt="leetcode_pd" style="width:100px;" />
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="leetcode_jan" style="width:100px;" /><img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png" alt="leetcode_pd" style="width:100px;" />
 
 
-<img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" alt="leetcode_jan" style="width:70px;" />
-<img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" alt="leetcode_feb" style="width:70px;" />
-<img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" alt="leetcode_mar" style="width:70px;" />
+<img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" alt="leetcode_jan" style="width:70px;" /><img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" alt="leetcode_feb" style="width:70px;" /><img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" alt="leetcode_mar" style="width:70px;" />
 
 <!--
 **esergeevacom/esergeevacom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
