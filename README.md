@@ -63,6 +63,7 @@ from SaintPetersburg import Developer
 
 
 <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" alt="leetcode_jan" style="width:70px;" /><img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" alt="leetcode_feb" style="width:70px;" /><img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" alt="leetcode_mar" style="width:70px;" /><img src="https://leetcode.com/static/images/badges/dcc-2024-4.png" alt="leetcode_apr" style="width:70px;" /><img src="https://leetcode.com/static/images/badges/dcc-2024-5.png" alt="leetcode_may" style="width:70px;" /><img src="https://leetcode.com/static/images/badges/dcc-2024-6.png" alt="leetcode_jun" style="width:70px;" /><img src="https://leetcode.com/static/images/badges/dcc-2024-7.png" alt="leetcode_jul" style="width:70px;" /><img src="https://leetcode.com/static/images/badges/dcc-2024-8.png" alt="leetcode_aug" style="width:70px;" /><img src="https://leetcode.com/static/images/badges/dcc-2024-9.png" alt="leetcode_sep" style="width:70px;" /><img src="https://leetcode.com/static/images/badges/dcc-2024-10.png" alt="leetcode_oct" style="width:70px;" /><img src="https://leetcode.com/static/images/badges/dcc-2024-11.png" alt="leetcode_nov" style="width:70px;" />
+<img src="https://leetcode.com/static/images/badges/dcc-2024-12.png" alt="leetcode_dec" style="width:70px;" />
 
 
 <!--
